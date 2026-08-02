@@ -20,7 +20,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="35" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+  <a href="https://discord.com/users/byashx" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="35" alt="Discord"/>
   </a>
 </p>
