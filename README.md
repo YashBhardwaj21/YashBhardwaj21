@@ -1,4 +1,4 @@
-<img src="terminal/.svg" width="640" alt="Yash Bhardwaj profile terminal" />
+<img src="terminal.svg" width="640" alt="Yash Bhardwaj profile terminal" />
 
 <p align="center">
   <a href="https://linkedin.com/in/itsyashbhardwaj">
